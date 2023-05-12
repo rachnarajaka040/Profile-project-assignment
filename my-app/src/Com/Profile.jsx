@@ -1,24 +1,3 @@
-// import React from 'react'
-// import Login from './Login';
-// function Profile() {
-//     const storedformData = localStorage.getItem('MyFormData');
-//     const formData = JSON.parse(storedformData);
-//     console.log(formData);
-//     return (
-//         <div>
-
-//             <div>
-//                 <h1>Profile page</h1>
-//                 <p>Email: {formData.email}</p>
-//                 <p>Password: {formData.password}</p>
-//             </div>
-
-//         </div>
-//     )
-// }
-
-// export default Profile
-
 
 import React from 'react'
 import { myimg } from './mypro.jpeg';
